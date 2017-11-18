@@ -44,20 +44,20 @@ For example
 
 * **more** : it shows you the file but let you move just to the end of the file.  
 
-* less : it let you move to the end or the opposite too.</p>
+* **less** : it let you move to the end or the opposite too.</p>
 
-* mkdir : make directories</p>
+* **mkdir** : make directories</p>
 
-* lspci : list all PCI devices</p>
+* **lspci** : list all PCI devices</p>
 
-* cp : copy files and directories</p>
+* **cp** : copy files and directories</p>
 
-* man : it shows you an interface to the on-line reference manuals</p>
+* **man** : it shows you an interface to the on-line reference manuals</p>
 
-* route : show / manipulate the IP routing table</p>
+* **route** : show / manipulate the IP routing table</p>
 
-* rm : remove files or directories</p>
+* **rm** : remove files or directories</p>
 
-* mv : move/rename files</p>
+* **mv** : move/rename files</p>
 
-* ipconfig : configure a network interface</p>
+* **ipconfig** : configure a network interface</p>
