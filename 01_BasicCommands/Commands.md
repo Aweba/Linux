@@ -4,13 +4,15 @@ we can use this command with an absolute o relative path
 Example:  
 suposse that we are in /home  
 relative path:  
-cd ../etc  
+`$> cd ../etc`
+   
 absolute path:  
-cd /etc  
+`$> cd /etc`
 both will take you to /etc  
-Also you can use  
-cd : the same directory  
-cd .. : one directory before  
+Also you can use for the same directory
+`$> cd `
+for one directory before
+`$> cd ..`
 --------
 *  **ls** : list directory contents  
 we can use this command with an argument to do an specific action  
