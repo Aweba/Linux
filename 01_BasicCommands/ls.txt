@@ -1,4 +1,0 @@
-ls: list directory contents
-we can use this command with an argument to do an specific action
-	ls -a : it show all the archives even the hidden
-	ls -l --author : print the autor for each file
