@@ -1,5 +1,4 @@
-cd.md
-cd : change directory
+<p>cd : change directory</p>
 we can use this command with an absolute o relative path
 Example:
 	suposse that we are in /home
