@@ -1,6 +1,6 @@
 # Basic Commands
-<p>cd : change directory</p>
-<p>we can use this command with an absolute o relative path</p>
+cd : change directory  
+we can use this command with an absolute o relative path  
 <p>Example:</p>
 <p>	suposse that we are in /home</p>
 <p>	relative path:</p>
