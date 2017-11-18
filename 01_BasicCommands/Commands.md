@@ -12,52 +12,52 @@ Also you can use
 cd : the same directory  
 cd .. : one directory before  
 
-2. **ls** : list directory contents  
+*  **ls** : list directory contents  
 we can use this command with an argument to do an specific action  
 ls -a : it show all the archives even the hidden  
 ls -l --author : print the autor for each file
 
-<p>cal : display a calendar</p>
-<p>If no arguments are specified, the current month is displayed.</p>
+* **cal** : display a calendar  
+If no arguments are specified, the current month is displayed.  
 
-<p>echo : display a line of text</p>
-<p>For example </p>
-<p>	echo "Hola mundo" </p>
-<p>	>>Hola mundo</p>
-<p>	echo $HOSTNAME</p>
-<p>	>>localhost.localdomain</p>
+* **echo** : display a line of text  
+For example  
+	echo "Hola mundo"  
+	>>Hola mundo  
+	echo $HOSTNAME  
+	>>localhost.localdomain  
 
-<p>pwd: print name of working directory</p>
+* **pwd**: print name of working directory  
 
-<p>grep : print lines matching a pattern</p>
-<p> For example if you have the archive fiore.txt</p>
-<p>	Hello world</p>
-<p>	The world is a little place to live</p>
-<p>	I'm writing this archive</p>
-<p> And you type in the prompt </p>
-<p>	grep world fiore.txt</p>
-<p> The output in the console will be</p>
-<p>	Hello **world**</p>
-<p>	The **world** is a little place to live</p>
+* **grep** : print lines matching a pattern  
+ For example if you have the archive fiore.txt  
+	Hello world  
+  The world is a little place to live  
+	I'm writing this archive  
+ And you type in the prompt  
+	grep world fiore.txt  
+ The output in the console will be  
+	Hello **world**  
+	The **world** is a little place to live  
 
-<p>cat : concatenate files and print on the standard output</p>
+* **cat** : concatenate files and print on the standard output  
 
-<p>more : it shows you the file but let you move just to the end of the file.</p>
+* **more** : it shows you the file but let you move just to the end of the file.  
 
-<p>less : it let you move to the end or the opposite too.</p>
+* less : it let you move to the end or the opposite too.</p>
 
-<p>mkdir : make directories</p>
+* mkdir : make directories</p>
 
-<p>lspci : list all PCI devices</p>
+* lspci : list all PCI devices</p>
 
-<p>cp : copy files and directories</p>
+* cp : copy files and directories</p>
 
-<p>man : it shows you an interface to the on-line reference manuals</p>
+* man : it shows you an interface to the on-line reference manuals</p>
 
-<p>route : show / manipulate the IP routing table</p>
+* route : show / manipulate the IP routing table</p>
 
-<p>rm : remove files or directories</p>
+* rm : remove files or directories</p>
 
-<p>mv : move/rename files</p>
+* mv : move/rename files</p>
 
-<p>ipconfig : configure a network interface</p>
+* ipconfig : configure a network interface</p>
