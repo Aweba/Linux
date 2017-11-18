@@ -1,4 +1,5 @@
-<p><p>cd : change directory</p></p>
+#Basic Commands
+<p>cd : change directory</p>
 <p>we can use this command with an absolute o relative path</p>
 <p>Example:</p>
 <p>	suposse that we are in /home</p>
