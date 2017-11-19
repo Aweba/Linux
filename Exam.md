@@ -4,7 +4,7 @@
 ```[Aweba@localhost ~]$ touch mi.prueba```    
 ## Tipear en el archivo PeruRumboGSoC2020
 ```[Aweba@localhost ~]$ vi mi.prueba```   
-* Ahora en vi vamos a escribir *
+## Ahora en vi vamos a escribir *
 ESC + i  
 PeruRumboGSoC2020  
 *Copiaremos 30 veces lo mismo*
