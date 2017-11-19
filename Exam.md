@@ -1,9 +1,9 @@
 # Prueba de entrada : Comandos
 ## Crear en la carpeta /tmp el archivo mi.prueba
-cd /tmp/  
-touch mi.prueba  
+```[Aweba@localhost ~]$ cd /tmp/```    
+```[Aweba@localhost ~]$ touch mi.prueba```    
 ## Tipear en el archivo PeruRumboGSoC2020
-vi mi.prueba  
+```[Aweba@localhost ~]$ vi mi.prueba  
 * Ahora en vi vamos a escribir *
 ESC + i  
 PeruRumboGSoC2020  
