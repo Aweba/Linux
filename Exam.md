@@ -3,7 +3,7 @@
 ```[Aweba@localhost ~]$ cd /tmp/```    
 ```[Aweba@localhost ~]$ touch mi.prueba```    
 ## Tipear en el archivo PeruRumboGSoC2020
-```[Aweba@localhost ~]$ vi mi.prueba  
+```[Aweba@localhost ~]$ vi mi.prueba```   
 * Ahora en vi vamos a escribir *
 ESC + i  
 PeruRumboGSoC2020  
